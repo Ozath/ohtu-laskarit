@@ -1,5 +1,9 @@
 # Ohjelmistotuotanto 2021 (Syksy)
 
+## Alustus
+
+[Viikko 1](https://github.com/Ozath/ohtu-2021-viikko1)
+
 ## Laskarit
 
 [Viikko 1](https://github.com/Ozath/ohtu-2021-assignments/tree/main/viikko1)
