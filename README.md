@@ -10,4 +10,6 @@
 
 [Viikko 4](https://github.com/Ozath/ohtu-laskarit/tree/main/viikko4)
 
-[Viikko 5]()
+[Viikko 5](https://github.com/Ozath/ohtu-laskarit/tree/main/viikko5)
+
+[Retro.md]()
