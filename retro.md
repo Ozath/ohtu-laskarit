@@ -1,20 +1,4 @@
-# 6. Retrospektiivitekniikat
-
-Wikipedian mukaan retrospektiivi on “a meeting held by a project team at the end of a project 
-or process (often after an iteration) to discuss what was successful about the project or time 
-period covered by that retrospective, what could be improved, and how to incorporate the 
-successes and improvements in future iterations or projects.”
-
-Tutustu täällä esiteltyihin retrospektiivitekniikoihin Start, Stop, Continue, More of, Less of 
-Wheel ja Glad, Sad, Mad
-
-Tee aiheesta noin 0.25 sivun (eli noin 125 sanaa) tiivistelmä repositorion juureen 
-sijoitettavaan tiedostoon retro.md
-
-
-**HUOM: Haluan vain tehdä huomion että kun englanniksi kirjoittaa, niin tuo 125 sanan määrä kasvaa yllättäen verrattuna suomeki kirjoitettuun tekstiin.**
-
-# Lorem ipsum
+# 6. Retrospective techniques
 
 The first retrospective is a quick (~10-25 min.) brainstorming technique used to figure out pros and cons pertaining to a sprint. An organizer places a poster with a circle divided into 5 parts labeled as per the name of the method. Participants then give open feedback pertaining to these categories that is jotted down. The "Start" category for example depicts what the group should start doing. Once no more contributions are given, then a brief discussion of its contents is carried out. This should ideally lead to actions being applied to further sprints.
 
