@@ -11,7 +11,8 @@ Wheel ja Glad, Sad, Mad
 Tee aiheesta noin 0.25 sivun (eli noin 125 sanaa) tiivistelmä repositorion juureen 
 sijoitettavaan tiedostoon retro.md
 
-**Haluan vain tehdä huomion että kun englanniksi kirjoittaa, niin tuo 125 sanan määrä kasvaa yllättäen verrattuna suomeki kirjoitettuun tekstiin.**
+
+**HUOM: Haluan vain tehdä huomion että kun englanniksi kirjoittaa, niin tuo 125 sanan määrä kasvaa yllättäen verrattuna suomeki kirjoitettuun tekstiin.**
 
 # Lorem ipsum
 
