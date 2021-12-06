@@ -1,4 +1,7 @@
 class TennisGame:
+
+    score_name = ["Love", "Fifteen", "Thirty", "Forty"]
+
     def __init__(self, player1_name, player2_name):
         self.player1_name = player1_name
         self.player2_name = player2_name
@@ -14,16 +17,14 @@ class TennisGame:
     def get_equal_score(self, score):
         if score > 3:
             return "Deuce"
-        score_names = ["Love-All", "Fifteen-All", "Thirty-All", "Forty-All"]
-        return score_names[score]
+        return self.score_name[score] + "-All"
 
     def get_score(self):
         score = ""
-        temp_score = 0
         if self.m_score1 == self.m_score2:
             return self.get_equal_score(self.m_score1)
         elif self.m_score1 >= 4 or self.m_score2 >= 4:
-            minus_result = self.m_score1 - self. m_score2
+            minus_result = self.m_score1 - self.m_score2
             if minus_result == 1:
                 score = "Advantage player1"
             elif minus_result == -1:
@@ -33,20 +34,5 @@ class TennisGame:
             else:
                 score = "Win for player2"
         else:
-            for i in range(1, 3):
-                if i == 1:
-                    temp_score = self.m_score1
-                else:
-                    score = score + "-"
-                    temp_score = self.m_score2
-
-                if temp_score == 0:
-                    score = score + "Love"
-                elif temp_score == 1:
-                    score = score + "Fifteen"
-                elif temp_score == 2:
-                    score = score + "Thirty"
-                elif temp_score == 3:
-                    score = score + "Forty"
-
+            score = self.score_name[self.m_score1] + "-" + self.score_name[self.m_score2]
         return score
