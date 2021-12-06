@@ -1,4 +1,4 @@
-# 6. Retrospective techniques
+## Retrospective techniques
 
 The first retrospective is a quick (~10-25 min.) brainstorming technique used to figure out pros and cons pertaining to a sprint. An organizer places a poster with a circle divided into 5 parts labeled as per the name of the method. Participants then give open feedback pertaining to these categories that is jotted down. The "Start" category for example depicts what the group should start doing. Once no more contributions are given, then a brief discussion of its contents is carried out. This should ideally lead to actions being applied to further sprints.
 
