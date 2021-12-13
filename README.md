@@ -16,7 +16,7 @@
 
 [Viikko 5](https://github.com/Ozath/ohtu-laskarit/tree/main/viikko5)
 
-[Viikko 6]()
+[Viikko 6](https://github.com/Ozath/ohtu-laskarit/tree/main/viikko6)
 
 ## Retro
 
