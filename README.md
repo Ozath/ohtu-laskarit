@@ -16,8 +16,14 @@
 
 [Viikko 5](https://github.com/Ozath/ohtu-laskarit/tree/main/viikko5)
 
+[Viikko 6]()
+
 ## Retro
 
 **HUOM: Haluan vain tehdä huomion että kun englanniksi kirjoittaa, niin tuo 125 sanan määrä kasvaa yllättäen verrattuna suomeki kirjoitettuun tekstiin.**
 
 [retro.md](https://github.com/Ozath/ohtu-laskarit/blob/main/retro.md)
+
+## Contribution
+
+[pull.md](https://github.com/sangsami/ohtuminiproject/pull/3)
