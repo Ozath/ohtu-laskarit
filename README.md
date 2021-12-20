@@ -27,3 +27,7 @@
 ## Contribution
 
 [pull.md](https://github.com/sangsami/ohtuminiproject/pull/3)
+
+## Merge
+
+[MERGE.md](MERGE.md)
